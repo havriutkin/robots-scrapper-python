@@ -28,6 +28,7 @@ I used requests and bs4 libraries.
 One of the problems was to turn radians represented by string to float degrees (solved using fractions lib)
 
 ## Result
+Project it was used for could be found [here](https://github.com/havriutkin/robotics-monodromy).
 Script gives following results (for saving place reasons only first two robots are included):
 
   
